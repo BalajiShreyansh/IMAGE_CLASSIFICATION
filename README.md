@@ -27,4 +27,19 @@ This project provides practical knowledge of Deep Learning, Computer Vision, and
 
 OUTPUT:
 
+<img width="1093" height="175" alt="Image" src="https://github.com/user-attachments/assets/e470c521-a1a6-450e-a651-11e047914e1f" />
+
+<img width="742" height="754" alt="Image" src="https://github.com/user-attachments/assets/620442a4-6b92-4d2f-bfa0-59eedede4923" />
+
+<img width="1379" height="611" alt="Image" src="https://github.com/user-attachments/assets/69baf91a-54bc-4818-afef-57996815c7a2" />
+
+<img width="1647" height="712" alt="Image" src="https://github.com/user-attachments/assets/44b51e42-0cd1-4bfd-b3e2-f16928bfdb37" />
+
+<img width="1037" height="175" alt="Image" src="https://github.com/user-attachments/assets/8b432711-d98b-40f1-876b-17d912826fd8" />
+
+<img width="939" height="614" alt="Image" src="https://github.com/user-attachments/assets/5aa02cda-72e2-4141-a86c-fac3f9932772" />
+
+<img width="581" height="532" alt="Image" src="https://github.com/user-attachments/assets/7b9a9c3f-e4a7-4609-bea4-943de0a6a9fe" />
+
+
 
